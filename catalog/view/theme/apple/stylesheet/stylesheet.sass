@@ -1,0 +1,145 @@
+@import "bourbon"
+@import "vars"
+@import "fonts"
+
+
+body
+  font-size: 16px
+  min-width: 320px
+  position: relative
+  line-height: 1.6
+  overflow-x: hidden
+  font-family: MyriadSetProText, sans-serif
+
+header
+  background-color: #333
+  padding: 7px 0
+  .dropdown
+    display: inline-block
+    .dropdown-toggle
+      color: #999
+      font-size: 14px
+      margin-top: 3px
+      padding: 4px 0 0
+      display: block
+      &:hover, &:focus, &:active
+        text-decoration: none
+        color: #fff
+
+ul.col-md-3
+  margin: 0
+
+.dropdown-menu
+  border-radius: 0
+  border: none
+  margin-top: 14px
+  left: 0
+  > li
+    > a
+      padding: 5px 20px
+      &:hover, &:focus
+        background-color: $accent2
+        color: #fff
+
+
+.header-phone
+  display: inline-block
+  color: #fff
+  float: right
+  font-size: 18px
+  padding: 4px 0
+
+logo
+  margin-top: 10px
+
+.form-control
+  &:focus
+    box-shadow: none
+
+#search
+  width: 100%
+  .form-control
+    padding: 5px 16px
+    height: 34px
+    border: none
+      radius: 0
+    background-color: #444
+    font:
+      style: italic
+      size: 13px
+      color: #fff
+    transition: background-color .25s ease, box-shadow .25s ease
+    box-shadow: transparent 0 0 0 1px inset
+    &:focus, &:hover
+      background-color: #555
+      box-shadow: #777 0 0 0 1px inset
+
+  .input-group-btn
+    position: absolute
+    right: 25px
+    .btn
+      padding: 9px
+      border: none
+        radius: 0
+      background: transparent
+      color: #999
+      font-size: 13px
+
+.navbar-collapse.in
+  overflow: hidden
+
+.top-menu
+  border-bottom: #EDEDED 1px solid
+  margin-bottom: 40px
+  a
+    color: #333
+  .navbar
+    margin-bottom: 0
+    font-size: 14px
+    &-nav
+      > li
+        > a
+          padding-top: 14px
+          padding-bottom: 12px
+          &:hover, &:focus
+            text-decoration: underline
+            background: none
+
+#cart
+  button
+    background-color: $accent3
+    border-radius: 0
+    padding-top: 14px
+    padding-bottom: 15px
+    border: none
+    font-family: MyriaSetProThin, sans-serif
+    font-size: 16px
+    text-align: left
+
+.cart-wrapper
+  padding-left: 0
+
+.toggle-top-text
+  text-transform: uppercase
+  display: inline-block
+  color: $accent
+  font-family: MyriadSetProSemiBold, sans-serif
+  padding: 17px 0
+
+.navbar-toggle
+  margin-right: 0
+
+.owl-wrapper-outer
+  border: none
+  box-shadow: none
+  border-radius: 0
+
+.owl-theme .owl-pagination
+  display: none
+
+.owl-carousel .owl-buttons div i
+  font-size: 35px
+  opacity: .4
+
+
+@import "media"
