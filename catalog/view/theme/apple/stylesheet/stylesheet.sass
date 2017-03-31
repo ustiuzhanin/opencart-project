@@ -342,4 +342,76 @@ a.list-group-item:focus, a.list-group-item:hover, button.list-group-item:focus, 
               left: 15px
               font-size: 18px
 
+.product-popup
+  display: none
+  background-color: #fff
+  max-width: 320px
+  position: relative
+  margin: auto
+  padding: 15px
+
+.main-footer
+  margin-top: 60px
+  .footer-ctn
+    background-color: #333
+    padding: 7px 0
+  .footer-mnu
+    ul
+      margin: 0
+      padding: 0
+      width: 100%
+      display: block
+      text-align: center
+      li
+        display: inline-block
+        font-size: 14px
+        float: none
+        a
+          color: #999
+          display: block
+          padding: 10px 14px
+          transition: all .25s ease
+          &:hover, &:focus
+            color: #b6b6b6
+            background-color: transparent
+            text-decoration: underline
+
+.nav-social
+  padding: 6px 0
+  text-align: right
+  ul, li
+    padding: 0
+    margin: 0
+  li
+    display: inline-block
+    a
+      color: #8f8f8f
+      font-size: 20px
+      padding: 0 5px
+      transition: color .25s ease
+      &:hover
+        color: lighten(#8f8f8f, 10%)
+
+.footer-phone
+  background-color: #262626
+  color: #8c8c8c
+  padding: 15px 0 35px
+  .site-phone
+    font-size: 22px
+    line-height: 1.4
+    color: #c8c8c8
+    margin-top: 8px
+  .site-phone_wrap
+    text-align: center
+    font-family: MyriadSetProThin, sans-serif
+  .callback
+    color: #777
+    font-size: 14px
+    border-bottom: 1px dashed #777
+    transition: border-bottom .25s ease, color .25s ease
+    &:hover, &focus
+      color: lighten(#999, 10%)
+      text-decoration: none
+      border-color: lighten(#999, 10%)
+
 @import "media"
