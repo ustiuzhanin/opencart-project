@@ -57,24 +57,26 @@
 
 </footer>
 
+
 <div id="callback" class="callback-form product-popup">
+
+  <h2>Request callback</h2>
+  <p>Phone number</p>
   <form class="ajax-form">
 
-    <h2>Request callback</h2>
-    <p>Phone number</p>
+    <!-- Hidden Required Fields -->
+    <input type="hidden" name="project_name" value="iPhoneservice">
+    <input type="hidden" name="admin_email" value="<?php echo $email; ?>">
+    <input type="hidden" name="form_subject" value="Call back from iPhoneservice">
+    <!-- END Hidden Required Fields -->
 
-		<!-- Hidden Required Fields -->
-		<input type="hidden" name="project_name" value="iPhoneservice">
-		<input type="hidden" name="admin_email" value="admin@mail.com">
-		<input type="hidden" name="form_subject" value="Call back from iPhoneservice">
-		<!-- END Hidden Required Fields -->
+    <input class="form-control" type="text" name="Phone" placeholder="Your phone is..." required>
+    <button class="btn btn-primary">Send</button>
 
-		<input class="form-control" type="text" name="Phone" placeholder="Your phone is..." required>
-		<button class="btn btn-primary">Send</button>
-
-	</form>
+  </form>
   <div class="succes">Thank you for request</div>
 </div>
+
 
 
 </body></html>
