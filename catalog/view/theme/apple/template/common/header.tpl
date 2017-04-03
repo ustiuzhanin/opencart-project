@@ -26,19 +26,19 @@
 <?php } ?>
 <link href="catalog/view/javascript/jquery/magnific/magnific-popup.css" rel="stylesheet">
 <link href="catalog/view/theme/apple/stylesheet/stylesheet.css" rel="stylesheet">
-
 <script src="catalog/view/javascript/common.js" type="text/javascript"></script>
 <?php foreach ($links as $link) { ?>
 <link href="<?php echo $link['href']; ?>" rel="<?php echo $link['rel']; ?>" />
 <?php } ?>
 <?php foreach ($scripts as $script) { ?>
 <script src="<?php echo $script; ?>" type="text/javascript"></script>
+<?php } ?>
 
 <script src="catalog/view/theme/apple/libs/equalHeights/equalHeights.js" type="text/javascript"></script>
 <script src="catalog/view/javascript/jquery/magnific/jquery.magnific-popup.min.js" type="text/javascript"></script>
 <script src="catalog/view/theme/apple/js/theme.js" type="text/javascript"></script>
 
-<?php } ?>
+
 <?php foreach ($analytics as $analytic) { ?>
 <?php echo $analytic; ?>
 <?php } ?>
