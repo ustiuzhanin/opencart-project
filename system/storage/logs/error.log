@@ -1,39 +1,20 @@
-2017-03-31 0:19:15 - PHP Notice:  Undefined variable: logo in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/common/footer.tpl on line 54
-2017-03-31 0:21:47 - PHP Notice:  Undefined variable: logo in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/common/footer.tpl on line 54
-2017-03-31 2:25:27 - PHP Notice:  Undefined variable: logo in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/common/footer.tpl on line 54
-2017-03-31 2:26:01 - PHP Notice:  Undefined variable: logo in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/common/footer.tpl on line 54
-2017-03-31 2:26:26 - PHP Notice:  Undefined variable: logo in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/common/footer.tpl on line 54
-2017-03-31 2:27:24 - PHP Notice:  Undefined variable: logo in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/common/footer.tpl on line 54
-2017-03-31 2:29:07 - PHP Notice:  Undefined variable: logo in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/common/footer.tpl on line 54
-2017-03-31 2:29:25 - PHP Notice:  Undefined variable: logo in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/common/footer.tpl on line 54
-2017-03-31 2:30:07 - PHP Notice:  Undefined variable: logo in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/common/footer.tpl on line 54
-2017-03-31 2:30:41 - PHP Notice:  Undefined variable: logo in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/common/footer.tpl on line 54
-2017-03-31 2:31:07 - PHP Notice:  Undefined variable: logo in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/common/footer.tpl on line 54
-2017-03-31 2:31:45 - PHP Notice:  Undefined variable: logo in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/common/footer.tpl on line 54
-2017-03-31 2:32:55 - PHP Notice:  Undefined variable: logo in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/common/footer.tpl on line 54
-2017-03-31 2:32:58 - PHP Notice:  Undefined variable: logo in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/common/footer.tpl on line 54
-2017-03-31 2:35:37 - PHP Notice:  Undefined variable: logo in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/common/footer.tpl on line 54
-2017-03-31 2:35:37 - PHP Notice:  Undefined variable: telephone in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/common/footer.tpl on line 95
-2017-03-31 2:37:31 - PHP Notice:  Undefined variable: logo in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/common/footer.tpl on line 54
-2017-03-31 2:37:31 - PHP Notice:  Undefined variable: telephone in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/common/footer.tpl on line 95
-2017-03-31 2:37:59 - PHP Notice:  Undefined variable: logo in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/common/footer.tpl on line 54
-2017-03-31 2:37:59 - PHP Notice:  Undefined variable: telephone in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/common/footer.tpl on line 95
-2017-03-31 2:38:02 - PHP Notice:  Undefined variable: logo in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/common/footer.tpl on line 54
-2017-03-31 2:38:02 - PHP Notice:  Undefined variable: telephone in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/common/footer.tpl on line 95
-2017-03-31 2:38:03 - PHP Notice:  Undefined variable: logo in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/common/footer.tpl on line 54
-2017-03-31 2:38:03 - PHP Notice:  Undefined variable: telephone in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/common/footer.tpl on line 95
-2017-03-31 2:38:05 - PHP Notice:  Undefined variable: logo in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/common/footer.tpl on line 54
-2017-03-31 2:38:05 - PHP Notice:  Undefined variable: telephone in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/common/footer.tpl on line 95
-2017-03-31 2:47:20 - PHP Notice:  Undefined variable: logo in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/common/footer.tpl on line 54
-2017-03-31 2:47:20 - PHP Notice:  Undefined variable: telephone in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/common/footer.tpl on line 95
-2017-04-02 2:42:09 - PHP Notice:  Undefined variable: meta_title in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/product/category.tpl on line 17
-2017-04-02 2:43:20 - PHP Notice:  Undefined variable: meta_title in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/product/category.tpl on line 17
-2017-04-02 2:43:23 - PHP Notice:  Undefined variable: meta_title in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/product/category.tpl on line 17
-2017-04-02 3:59:16 - PHP Notice:  Undefined variable: meta_title in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/product/category.tpl on line 17
-2017-04-02 3:59:16 - PHP Notice:  Undefined variable:  in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/product/category.tpl on line 17
-2017-04-02 3:59:34 - PHP Notice:  Undefined variable: meta_title in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/product/category.tpl on line 17
-2017-04-02 3:59:34 - PHP Notice:  Undefined variable:  in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/product/category.tpl on line 17
-2017-04-02 4:00:02 - PHP Notice:  Undefined variable: Apple iPhone 6s in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/product/category.tpl on line 17
-2017-04-02 4:00:03 - PHP Notice:  Undefined variable: Apple iPhone 6s in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/product/category.tpl on line 17
-2017-04-02 4:00:05 - PHP Notice:  Undefined variable: Apple iPhone 6s in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/product/category.tpl on line 17
-2017-04-02 4:00:10 - PHP Notice:  Undefined variable: Apple iPhone 6s in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/product/category.tpl on line 17
+2017-04-04 4:13:27 - PHP Notice:  Undefined variable: specials in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/common/header.tpl on line 102
+2017-04-04 4:13:31 - PHP Notice:  Undefined variable: specials in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/common/header.tpl on line 102
+2017-04-04 4:13:48 - PHP Notice:  Undefined variable: specials in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/common/header.tpl on line 102
+2017-04-04 4:13:49 - PHP Notice:  Undefined variable: specials in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/common/header.tpl on line 102
+2017-04-04 4:13:53 - PHP Notice:  Undefined variable: specials in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/common/header.tpl on line 102
+2017-04-04 4:13:59 - PHP Notice:  Undefined variable: specials in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/common/header.tpl on line 102
+2017-04-04 4:14:05 - PHP Notice:  Undefined variable: specials in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/common/header.tpl on line 102
+2017-04-04 4:14:10 - PHP Notice:  Undefined variable: special in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/common/header.tpl on line 102
+2017-04-04 4:14:11 - PHP Notice:  Undefined variable: special in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/common/header.tpl on line 102
+2017-04-04 4:14:14 - PHP Notice:  Undefined variable: special in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/common/header.tpl on line 102
+2017-04-04 4:16:24 - PHP Notice:  Undefined variable: special in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/common/header.tpl on line 102
+2017-04-04 4:17:23 - PHP Notice:  Undefined variable: special in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/common/header.tpl on line 102
+2017-04-04 4:17:26 - PHP Notice:  Undefined variable: special in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/common/header.tpl on line 102
+2017-04-04 4:17:28 - PHP Notice:  Undefined variable: special in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/common/header.tpl on line 102
+2017-04-04 4:17:29 - PHP Notice:  Undefined variable: special in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/common/header.tpl on line 102
+2017-04-04 4:17:31 - PHP Notice:  Undefined variable: special in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/common/header.tpl on line 102
+2017-04-04 4:17:34 - PHP Notice:  Undefined variable: special in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/common/header.tpl on line 102
+2017-04-04 4:21:03 - PHP Notice:  Undefined variable: specials in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/common/header.tpl on line 102
+2017-04-04 4:21:09 - PHP Notice:  Undefined variable: specials in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/common/header.tpl on line 102
+2017-04-04 4:21:13 - PHP Notice:  Undefined variable: specials in /Users/slvust/Documents/sites/opencart.loc/catalog/view/theme/apple/template/common/header.tpl on line 102
